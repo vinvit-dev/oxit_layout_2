@@ -53,6 +53,7 @@ html, body {
     color: #767676;
     font-family: 'PT Sans';
     font-weight: lighter;
+    overflow-x: hidden;
 }
 
 .wrapper {
@@ -65,8 +66,7 @@ main {
 }
 
 .container {
-    max-width: 1000px;
-    width: 100%;
+    width: 1000px;
     height: 100%;
     padding: 10px 10px;
     margin: auto;
@@ -101,8 +101,7 @@ header {
     justify-content: center;
 }
 .slider__item {
-    max-width: 1248px;
-    width: 100%;
+    width: 1248px;
 }
 menu {
     height: 80px;
