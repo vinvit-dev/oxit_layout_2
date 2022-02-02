@@ -158,6 +158,10 @@ menu {
     font-style: italic;
 }
 
+.news__text:hover {
+    text-decoration: underline;
+}
+
 .news__archive {
     display: block;
     text-align: right;
